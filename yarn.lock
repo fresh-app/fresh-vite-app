@@ -75,10 +75,10 @@ source-map@^0.6.1:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
-vite@^2.0.0-beta.70:
-  version "2.0.0-beta.70"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.0.0-beta.70.tgz#ec0d4f2bfd02f31d2c59aa9760f27c26647f41ce"
-  integrity sha512-rbuAYZE8T0jNOUykkyfjiiKmz4MpW2KqzHO8++WCCDXyxzIg56ICQ/B6NLZzVpWyk0iSKiUKr2k8NMkmDlZAQQ==
+vite@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.0.0.tgz#156f35eadaa7947629aa8a24eb23129b07116ee3"
+  integrity sha512-rNli5g0DaQ6+btlRqkmaR06neWaJGApmt40gocqrYDNi2XoEXYQgKiHSWzMeUgc1Cdva2HduqazaE+RaKjBpdQ==
   dependencies:
     esbuild "^0.8.34"
     postcss "^8.2.1"
