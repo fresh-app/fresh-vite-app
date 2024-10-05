@@ -9,7 +9,7 @@ importers:
   .:
     devDependencies:
       vite:
-        specifier: ^5.4.1
+        specifier: ^5.4.8
         version: 5.4.8
 
 packages:
